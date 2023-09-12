@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My 1st Page</title>
+        <script src="code.js" defer></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1 id="heading1"></h1>
+        <p id="p1">This is my paragraph</p>
+        <button>Click me</button>
+        <img src="download.jpg" alt="">
+       
+    </body>
+</html>
